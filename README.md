@@ -8,7 +8,7 @@ School Management System is a simple command-line program written in C that allo
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Testing Video](#Testing-Video)
-- [Connect with me]
+- [Connect with me](#Connect-with-me)
 
 ## Features
 
